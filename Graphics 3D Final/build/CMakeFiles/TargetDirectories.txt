@@ -1,0 +1,3 @@
+C:/Users/Admin/Desktop/Graphics 3D Final/build/CMakeFiles/myGame.dir
+C:/Users/Admin/Desktop/Graphics 3D Final/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Admin/Desktop/Graphics 3D Final/build/CMakeFiles/ZERO_CHECK.dir
